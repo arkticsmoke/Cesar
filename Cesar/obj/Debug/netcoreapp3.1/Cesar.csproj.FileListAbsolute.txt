@@ -1,0 +1,13 @@
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.exe
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.deps.json
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.runtimeconfig.json
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.runtimeconfig.dev.json
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.dll
+C:\Users\suspe\source\repos\Cesar\Cesar\bin\Debug\netcoreapp3.1\Cesar.pdb
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.csprojAssemblyReference.cache
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.AssemblyInfoInputs.cache
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.AssemblyInfo.cs
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.csproj.CoreCompileInputs.cache
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.dll
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.pdb
+C:\Users\suspe\source\repos\Cesar\Cesar\obj\Debug\netcoreapp3.1\Cesar.genruntimeconfig.cache
